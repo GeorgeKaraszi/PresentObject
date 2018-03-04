@@ -8,7 +8,6 @@ require "present_object/version"
 Gem::Specification.new do |spec|
   spec.name          = "present_object"
   spec.version       = PresentObject::VERSION
-  spec.required_ruby_version = [">= 2.4.0", "< 3.0"]
   spec.authors       = ["George Protacio-Karaszi"]
   spec.email         = ["georgekaraszi@gmail.com"]
 
