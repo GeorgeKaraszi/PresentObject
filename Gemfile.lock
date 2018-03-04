@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    present_object (1.0.0.pre.rc1)
+    present_object (1.0.0)
 
 GEM
   remote: https://rubygems.org/
