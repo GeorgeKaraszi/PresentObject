@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GeorgeKaraszi/PresentObject.svg?branch=master)](https://travis-ci.org/GeorgeKaraszi/PresentObject) [![Maintainability](https://api.codeclimate.com/v1/badges/f447204e489f4ac23387/maintainability)](https://codeclimate.com/github/GeorgeKaraszi/PresentObject/maintainability)
+
 # PresentObject
 
 A copy of ActiveSupport's present and blank objects without the extra baggage.
